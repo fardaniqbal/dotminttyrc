@@ -1,0 +1,12 @@
+CursorType=block
+ThemeFile=flat-ui
+Term=xterm-256color
+Scrollbar=right
+BellType=0
+BoldAsFont=yes
+BoldAsColour=no
+CopyAsRTF=no
+ScrollbackLines=50000
+CopyOnSelect=no
+Columns=100
+Rows=60
