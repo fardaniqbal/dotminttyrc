@@ -1,7 +1,6 @@
 CursorType=block
 ThemeFile=flat-ui
 Term=xterm-256color
-Font=Consolas
 FontHeight=11
 Locale=C
 Charset=UTF-8
