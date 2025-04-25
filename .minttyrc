@@ -1,6 +1,6 @@
 CursorType=block
 ThemeFile=flat-ui
-Term=xterm-256color
+Term=xterm-direct
 FontHeight=11
 Locale=C
 Charset=UTF-8
@@ -13,3 +13,5 @@ ScrollbackLines=50000
 CopyOnSelect=no
 Columns=90
 Rows=40
+Font=MesloLGM Nerd Font Mono
+CursorBlinks=no
